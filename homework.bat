@@ -11,4 +11,5 @@ start https://8ch.net/loli/index.html
 start https://www.wildchildmagazine.us
 start https://media.discordapp.net/attachments/555798325048115208/565383916681429012/image0.png
 start https://media.discordapp.net/attachments/555798325048115208/563010823816085504/IMG_3155.JPG
+start https://media.discordapp.net/attachments/552197259404771329/565235315577716736/image0.png
 GOTO loop
